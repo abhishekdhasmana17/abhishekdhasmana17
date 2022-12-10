@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishekdhasmana17
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently pursuing Masters in Physics along with AI and ML.
-- 💞️ I’m looking to collaborate on diffrent ML and DL projects 
+- 💞️ I’m looking to collaborate on different ML and DL projects 
 - 📫 How to reach me abhidhasmana17@gmail.com.
 
 <!---
