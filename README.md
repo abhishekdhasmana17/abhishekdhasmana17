@@ -1,14 +1,21 @@
-### Hi there 👋
-- 👋 Hi, I’m @abhishekdhasmana17
-- 👀 I’m interested in Machine Learning and its integration in Computational Chemistry and physics
-- 🌱 I’m Post Graduate in Physics. During Post Graduation I have taken AI and ML as elective. Right now i am doing Phd at UOS!
-- 💞️ I’m looking to collaborate on different Catalysis theory.
-- 📫 How to reach me abhidhasmana17@gmail.com
-- Here is my LinkedIn link. Let's connect - https://www.linkedin.com/in/abhishek-dhasmana-560521222/
-<!--
-**abhishekdhasmana17/abhishekdhasmana17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Abhishek 👋
 
-Here are some ideas to get you started:
+PhD student in Chemical Engineering at the **University of Seoul**, working in the **Yoo Group** (Computational Catalysis & Materials Design Lab). Before that I spent five years in physics (BSc Honours, MSc), taking AI and ML as an elective during my MSc.
 
+#### Research
+- 🔬 DFT-based surface science and computational electrochemistry (VASP, computational hydrogen electrode)
+- ⚡ Electrocatalysis, including the oxygen reduction reaction on metal surfaces
+- 🧱 2D oxide materials
+- 🌱 Catalysts for renewable hydrogen, and process systems engineering
+- 🤖 Machine learning for computational chemistry and physics
 
--->
+#### Tools
+Python · VASP · ASE · NumPy · Matplotlib · Linux/HPC
+
+#### Projects
+- **[VASP Python Toolkit](https://github.com/abhishekdhasmana17/VASP)**: scripts for VASP post-processing and visualization, starting with an OUTCAR trajectory animator
+
+#### Get in touch
+- 💞️ Open to collaborating on catalysis theory
+- 📫 abhidhasmana17@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-dhasmana-560521222/)
