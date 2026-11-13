@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @abhishekdhasmana17
-- 👀 I’m interested in Machine Learning and Data Science.
+- 👀 I’m interested in Machine Learning and its integration in Computational Chemistry and physics
 - 🌱 I’m Post Graduate in Physics. During Post Graduation I have taken AI and ML as elective. Right now i am doing Phd at UOS!
 - 💞️ I’m looking to collaborate on different Catalysis theory.
 - 📫 How to reach me abhidhasmana17@gmail.com
